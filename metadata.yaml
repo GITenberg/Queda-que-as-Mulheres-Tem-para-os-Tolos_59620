@@ -1,5 +1,5 @@
 _repo: Queda-que-as-Mulheres-Tem-para-os-Tolos_59620
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Machado de Assis
@@ -12,12 +12,17 @@ contributor:
     gutenberg_agent_id: '9685'
     url: http://www.gutenberg.org/2009/agents/9685
     wikipedia: http://pt.wikipedia.org/wiki/Machado_de_Assis
+covers:
+- cover_type: archival
+  image_path: 59620-h/images/queda_cover.jpg
 creator:
   author:
     agent_name: Hénaux, Victor
     gutenberg_agent_id: '50537'
     url: http://www.gutenberg.org/2009/agents/50537
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59620#Queda-que-as-Mulheres-Tem-para-os-Tolos
 gutenberg_issued: '2019-05-27'
 gutenberg_type: Text
 identifiers:
